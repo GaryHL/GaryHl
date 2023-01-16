@@ -9,3 +9,5 @@
 
   
 contact me: **garyhl321@gmail.com**
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GaryHL&theme=highcontrast)](https://git.io/streak-stats)
