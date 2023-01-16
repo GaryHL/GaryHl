@@ -10,4 +10,4 @@
   
 contact me: **garyhl321@gmail.com**
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=GaryHL&background=DD2727)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=GaryHL&theme=highcontrast&background=000000)](https://git.io/streak-stats)
