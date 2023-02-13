@@ -11,3 +11,5 @@ contact me: **garyhl321@gmail.com**
 <div align='center'>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=GaryHL&theme=highcontrast&background=000000)](https://git.io/streak-stats)</div>
+
+![Snake animation](https://github.com/GaryHL/GaryHL/blob/output/github-contribution-grid-snake.svg)
