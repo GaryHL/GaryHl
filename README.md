@@ -1,3 +1,5 @@
+<img src="https://i.imgur.com/CPTRroN.png">
+
 <h1 align="center">Hola Soy Gary!👋</h1>
 
 <h4 align="center"> </h4>
