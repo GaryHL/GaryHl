@@ -72,7 +72,8 @@
       </td>
       <td>
         <div align="center">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=GaryHL&theme=tokyonight&hide_border=true" alt="GaryHL's Streak">
+         <img src="https://github-readme-streak-stats.herokuapp.com/?user=GaryHL&theme=tokyonight&hide_border=true&dates_format=YYYY-MM-DD&currStreakNum=7&currStreakLabel=Last%20week" alt="GaryHL's Streak">
+
         </div>
       </td>
     </tr>
