@@ -12,7 +12,7 @@
 </br>
 🏅 Ganador del primer lugar en hackathon F5 mentorizada por Caixa Bank Tech.
 </br>
-📩 Contáctame a través de mi perfil de GitHub o LinkedIn para saber cómo puedo contribuir a su equipo de desarrollo.
+📩 Contáctame a través de mi perfil de GitHub o LinkedIn para saber cómo puedo contribuir a tu equipo.
 </br>
 
 ---
