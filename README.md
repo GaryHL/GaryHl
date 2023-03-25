@@ -84,3 +84,7 @@
 
 
 ![Snake animation](https://github.com/GaryHL/GaryHL/blob/output/github-contribution-grid-snake.svg)
+
+
+![](https://komarev.com/ghpvc/?GaryHL=your-github-GaryHL&color=green)
+
