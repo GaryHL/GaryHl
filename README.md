@@ -85,6 +85,13 @@
 
 ![Snake animation](https://github.com/GaryHL/GaryHL/blob/output/github-contribution-grid-snake.svg)
 
+<div align="center">
+  
+  <p>Contador de visitas: </p>
+  
+  ![Visitor Count](https://profile-counter.glitch.me/GaryHL/count.svg)
 
-![Visitor Count](https://profile-counter.glitch.me/GaryHL/count.svg)
+  
+</div>
+
 
