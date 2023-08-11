@@ -80,7 +80,7 @@
 </div>
 
 
-<h4 align="center">Contactame: contacto@garylima.online</h4>
+<h4 align="center">Contáctame: contacto@garylima.online</h4>
 <div align="center">
   
   <p>Contador de visitas: </p>
