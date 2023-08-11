@@ -81,10 +81,6 @@
 
 
 <h4 align="center">Contactame: contacto@garylima.online</h4>
-
-
-![Snake animation](https://github.com/GaryHL/GaryHL/blob/output/github-contribution-grid-snake.svg)
-
 <div align="center">
   
   <p>Contador de visitas: </p>
