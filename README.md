@@ -4,7 +4,7 @@
 
 **`Desarrollador Frontend`**
 
-💻 Desarrollador web junior enfocado en la mejora continua y el aprendizaje constante. 
+💻 Desarrollador web enfocado en la mejora continua y el aprendizaje constante. 
 </br>
 🙌 Habilidad para adaptarme rápidamente a nuevas tecnologías y trabajar en equipo de manera efectiva.
 </br>
